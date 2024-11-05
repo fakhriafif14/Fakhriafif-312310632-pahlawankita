@@ -1,9 +1,11 @@
 # "Pahlawan Kita" berfokus pada mengenalkan dan menghormati pahlawan-pahlawan nasional yang telah berjasa bagi bangsa"
 ## Informasi Mahasiswa
 
-| Nama                      | NIM          | Kelas              | 
-|---------------------------|--------------|--------------------|
-| FAKHRI AFIF MUHAIMIN      | 312310632    | TI.23.A6           | 
+| Nama                      | NIM          | Kelas              |  Tugas
+|---------------------------|--------------|--------------------|--------------------
+| FAKHRI AFIF MUHAIMIN      | 312310632    | TI.23.A6           | uts
+
+
 
 ## 🎯 Fitur Utama
 Berikut adalah penjelasan fitur-fitur pada gambar desain aplikasi :
