@@ -35,15 +35,18 @@ Ada scrollbar di samping, menunjukkan bahwa pengguna dapat menggulir ke bawah un
 - **Tools**: Git, GitHub, Android Studio
 
 ## Storyboard
-  ![image](ss/ss1.png)
+  ![image](ss/storyboard.png)
 
   ## Mockup
- ![image](ss/ss1.png)
+ ![image](ss/mockup.png)
 
 ## color
- ![image](ss/ss1.png)
+ ![image](ss/color.png)
 
 
   ## UI
-   ![image](ss/ss1.png)
+   ![image](ss/ui.png)
 
+## 🛠 Pengembang
+
+**FAKHRI AFIF MUHAIMIN**
