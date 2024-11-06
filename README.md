@@ -1,4 +1,4 @@
-# Aplikasi "Pahlawan Kita"  berfokus pada mengenalkan dan menghormati pahlawan-pahlawan nasional yang telah berjasa bagi bangsa"
+# Aplikasi "Pahlawan Kita" 
 ## Informasi Mahasiswa
 | UTS  |  Pemrograman Mobile 1  
 |-------|---------
@@ -9,7 +9,7 @@
 
 
 ## 🎯 Fitur Utama
-Berikut adalah penjelasan fitur-fitur pada gambar desain aplikasi "Pahlawan kita" :
+Aplikasi "Pahlawan Kita"  berfokus pada mengenalkan dan menghormati pahlawan-pahlawan nasional yang telah berjasa bagi bangsa, Berikut adalah penjelasan fitur-fitur pada gambar desain aplikasi "Pahlawan kita" :
 
 **Layar Pembuka (Splash Screen):**
 Ini adalah layar awal yang muncul saat aplikasi dibuka. Menampilkan gambar tokoh-tokoh sejarah, menciptakan tema yang berpusat pada gerakan kemerdekaan Indonesia atau pahlawan nasional terkenal.
@@ -43,8 +43,9 @@ Ada scrollbar di samping, menunjukkan bahwa pengguna dapat menggulir ke bawah un
 
   ## UI
 ![image](ss/layardepan.png)
+
 ![image](ss/menu.png)
+
 ![image](ss/sejarah.png)
 ## 🛠 Pengembang
-
 ### Copyright © 2024 FAKHRI AFIF. All rights reserved.
