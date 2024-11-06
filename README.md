@@ -1,9 +1,10 @@
-# "Pahlawan Kita" berfokus pada mengenalkan dan menghormati pahlawan-pahlawan nasional yang telah berjasa bagi bangsa"
+# Aplikasi "Pahlawan Kita"  berfokus pada mengenalkan dan menghormati pahlawan-pahlawan nasional yang telah berjasa bagi bangsa"
 ## Informasi Mahasiswa
-
-| Nama                      | NIM          | Kelas              |  Tugas
-|---------------------------|--------------|--------------------|--------------------
-| FAKHRI AFIF MUHAIMIN      | 312310632    | TI.23.A6           | uts
+| UTS  |  Pemrograman Mobile 1  
+|-------|---------
+| NIM   | 312310632
+| Nama  | FAKHRI AFIF
+| Kelas | TI.23.A6
 
 
 
@@ -49,4 +50,4 @@ Ada scrollbar di samping, menunjukkan bahwa pengguna dapat menggulir ke bawah un
 
 ## 🛠 Pengembang
 
-**FAKHRI AFIF MUHAIMIN**
+### Copyright © 2024 FAKHRI AFIF. All rights reserved.
