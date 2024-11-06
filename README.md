@@ -9,14 +9,10 @@
 
 
 ## 🎯 Fitur Utama
-Berikut adalah penjelasan fitur-fitur pada gambar desain aplikasi :
+Berikut adalah penjelasan fitur-fitur pada gambar desain aplikasi "Pahlawan kita" :
 
 **Layar Pembuka (Splash Screen):**
 Ini adalah layar awal yang muncul saat aplikasi dibuka. Menampilkan gambar tokoh-tokoh sejarah, menciptakan tema yang berpusat pada gerakan kemerdekaan Indonesia atau pahlawan nasional terkenal.
-
-**Layar Login:**
-Pengguna diminta untuk login dengan memasukkan email dan kata sandi.
-Terdapat tombol "Log In" yang menunjukkan bahwa akses ke fitur-fitur aplikasi mungkin terbatas bagi pengguna terdaftar atau anggota.
 
 **Menu Utama:**
 Layar ini berjudul "DAFTAR PAHLAWAN", menampilkan daftar pahlawan sejarah dengan gambar kecil dari setiap tokoh, disertai dengan nama mereka.
@@ -41,13 +37,14 @@ Ada scrollbar di samping, menunjukkan bahwa pengguna dapat menggulir ke bawah un
   ## Mockup
  ![image](ss/mockup.png)
 
-## color
+## color & Font
  ![image](ss/color.png)
 
 
   ## UI
-   ![image](ss/ui.png)
-
+![image](ss/layardepan.png)
+![image](ss/menu.png)
+![image](ss/sejarah.png)
 ## 🛠 Pengembang
 
 ### Copyright © 2024 FAKHRI AFIF. All rights reserved.
