@@ -32,10 +32,10 @@ Ada scrollbar di samping, menunjukkan bahwa pengguna dapat menggulir ke bawah un
 - **Tools**: Git, GitHub, Android Studio
 
 ## Storyboard
-  ![image](ss/storyboard.png)
+  ![image](ss/frame1.png)
 
   ## Mockup
- ![image](ss/mockup.png)
+ ![image](ss/frame2.png)
 
 ## color & Font
  ![image](ss/color.png)
