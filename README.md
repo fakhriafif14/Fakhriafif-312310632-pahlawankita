@@ -42,10 +42,20 @@ Ada scrollbar di samping, menunjukkan bahwa pengguna dapat menggulir ke bawah un
 
 
   ## UI
-![image](ss/layardepan.png)
 
-![image](ss/menu.png)
+  ### Eksekusi Android Studio
 
-![image](ss/sejarah.png)
+- Splash Screen
+
+![gambar](ss/cuplikan_androidstudio.png)
+
+- Halaman Utama
+
+![gambar](ss/home.png)
+
+- Halaman Tambah Data
+
+![gambar](ss/add_data.png)
+
 ## 🛠 Pengembang
 ### Copyright © 2024 FAKHRI AFIF. All rights reserved.
