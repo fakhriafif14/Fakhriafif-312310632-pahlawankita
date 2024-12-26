@@ -15,17 +15,17 @@
 - **Tools**: Git, GitHub, Android Studio
 
 ## Storyboard
-  ![image](ss/frame1.png)
+  ![image](ss/frame2.png)
 
   ## Mockup
- ![image](ss/frame2.png)
+ ![image](ss/frame3.png)
 
 ## color & Font
- ![image](ss/color.png)
+ ![image](ss/color1.png)
 
 
   ## UI
- ![image](ss/Frame.png)
+ ![image](ss/frame1.png)
   ### Eksekusi Android Studio
 
 - Splash Screen
