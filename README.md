@@ -57,5 +57,4 @@ Bagian ini menyediakan biografi atau sejarah terperinci tentang pahlawan yang di
 Konten terdiri dari teks yang mendeskripsikan kehidupan pahlawan, pencapaian, konteks sejarah, dan informasi relevan lainnya.
 Ada scrollbar di samping, menunjukkan bahwa pengguna dapat menggulir ke bawah untuk membaca seluruh cerita.
 
-## 🛠 Pengembang
-### Copyright © 2024. All rights reserved.
+
